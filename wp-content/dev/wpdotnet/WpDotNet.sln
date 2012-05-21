@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpDotNet", "WpDotNet.csproj", "{45FB37E7-ADD5-4BB3-903A-66B2805545E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wpdotnet.php", "wpdotnet.php", "{5D18D396-3887-4B4F-8738-5199FA80B4F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\mu-plugins\wpdotnet.php = ..\..\mu-plugins\wpdotnet.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wpdotnetupdater", "wpdotnetupdater", "{F75BBBDB-046E-44EC-9761-C4C0176BCA06}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\plugins\wpdotnetupdater\wpdotnetupdater.php = ..\..\plugins\wpdotnetupdater\wpdotnetupdater.php
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "updateapi", "updateapi", "{D05B92B3-66C0-4D17-9EBC-5427DB483875}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\api.php = ..\..\..\api.php
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://team.corp.devsense.com:8443/tfs/projects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WpDotNet.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FB37E7-ADD5-4BB3-903A-66B2805545E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FB37E7-ADD5-4BB3-903A-66B2805545E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FB37E7-ADD5-4BB3-903A-66B2805545E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FB37E7-ADD5-4BB3-903A-66B2805545E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
