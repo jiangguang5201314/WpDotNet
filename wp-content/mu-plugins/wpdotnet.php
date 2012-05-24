@@ -1,14 +1,14 @@
 <?php
 /**
  * @package WpDotNet
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: WP.NET
 Plugin URI: http://www.wpdotnet.com
 Description: This plugin adds unique features to the WordPress installation; you'll get better performance and full .NET extensibility!
 Author: DEVSENSE
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.devsense.com/
 */
 

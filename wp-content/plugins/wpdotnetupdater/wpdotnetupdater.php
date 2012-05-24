@@ -1,14 +1,14 @@
 <?php
 /**
  * @package WpDotNet
- * @version 1.0
+ * @version 1.0.1
  */
 /*
 Plugin Name: WP.NET Updater
 Plugin URI: http://www.wpdotnet.com
 Description: This plugin handles automatic updates of Phalanger which is powering your WordPress
 Author: DEVSENSE
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.devsense.com/
 */
 
